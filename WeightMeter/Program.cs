@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace WeightMeter
+namespace _1712WeightMeter
 {
     static class Program
     {

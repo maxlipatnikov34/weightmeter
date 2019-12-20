@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29230.47
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WeightMeter", "WeightMeter\WeightMeter.csproj", "{A4886B71-2A69-41C9-8DBA-3C3D91AC1775}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1712WeightMeter", "WeightMeter\1712WeightMeter.csproj", "{A4886B71-2A69-41C9-8DBA-3C3D91AC1775}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

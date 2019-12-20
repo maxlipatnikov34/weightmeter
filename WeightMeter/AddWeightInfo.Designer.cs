@@ -1,4 +1,4 @@
-﻿namespace WeightMeter
+﻿namespace _1712WeightMeter
 {
     partial class AddWeightInfo
     {
